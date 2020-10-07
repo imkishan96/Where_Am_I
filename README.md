@@ -29,3 +29,5 @@ click on the terminal and use the following keys to control the robot
       J   K   L 
       M   <   > 
 ```
+![GitHub Logo](/bot_rviz.png)
+[ successful localization  ]
