@@ -25,7 +25,7 @@ roslaunch my_robot world.launch
 ```
 click on the terminal and use the following keys to control the robot
 ```
-      I   O   P 
+      U   I   O 
       J   K   L 
       M   <   > 
 ```
